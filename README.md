@@ -1,4 +1,7 @@
 
+## Access ParaDB Container
+
+docker exec -it ParaDB /bin/bash
 
 ## Create ParaDB site:
 
