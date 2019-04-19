@@ -1,3 +1,6 @@
+## Create ParaDB Container:
+
+docker run -di -p 80:80 -p 6000:6000 --name ParaDB -h paradb --restart=always paradb/ee
 
 ## Access ParaDB Container
 
