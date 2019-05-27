@@ -63,7 +63,7 @@ ee site create domain --mysql
 - Posts page: -
 - Save changes
 
-# Active Default Menu
+## Active Default Menu
 
 - Click Appearance -> Menus
 - Menu Settings -> Display location -> Active Main Navigation
