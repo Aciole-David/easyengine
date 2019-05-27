@@ -16,6 +16,8 @@ ee site create domain --mysql
 
 ------------------------------------------
 
+## Config Max Upload to 100mb
+
 ## Install Themes
 
 - Install Avada and Avada Child Themes
@@ -35,7 +37,12 @@ ee site create domain --mysql
 - Copy configs from paradb_options_backup_27-05-2019.json
 - Click in Import and Save Changes
 
+## Import ParaDB Site Content
 
-
+- Click in Tools -> Import -> WordPress -> Run Importer
+- Select paradb.xml file
+- Import author: admin
+- Download and import file attachments
+- Click in Submit
 
 
