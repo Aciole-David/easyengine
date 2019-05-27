@@ -45,4 +45,10 @@ ee site create domain --mysql
 - Download and import file attachments
 - Click in Submit
 
+## Select ParaDB Site Content
 
+- Click in Setting -> Reading
+- Your homepage displays = A static page (select below)
+- Homepage: Home
+- Posts page: -
+- Save changes
