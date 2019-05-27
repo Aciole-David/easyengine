@@ -33,7 +33,7 @@ ee site create domain --mysql
 
 - Click in Avada -> Theme Options -> Import/Export -> Import Contents from File
 - Copy configs from paradb_options_backup_27-05-2019.json
-- Click in Save Changes
+- Click in Import and Save Changes
 
 
 
