@@ -30,6 +30,16 @@ ee site create domain --mysql
 - Install and activate Fusion White Label Branding plugin
 - Install and activate Advanced Custom Fields PRO plugin
 - Install and activate Wordpress Importer plugin
+- Install and activate ARI Adminer plugin
+- Install and activate Better Font Awesome plugin
+- Install and activate iframe plugin
+- Install and activate Jetpack by WordPress.com plugin
+- Install and activate Simple Download Monitor plugin
+- Install and activate TinyMCE Advanced plugin
+- Install and activate WordPress MU Domain Mapping plugin
+- Install and activate WP-Optimize plugin
+- Install and activate WP-ServerInfo plugin
+- Install and activate wpDataTables plugin
 
 ## Import Theme Options
 
@@ -52,3 +62,9 @@ ee site create domain --mysql
 - Homepage: Home
 - Posts page: -
 - Save changes
+
+# Active Default Menu
+
+- Click Appearance -> Menus
+- Menu Settings -> Display location -> Active Main Navigation
+- Save Menu
