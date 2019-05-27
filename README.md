@@ -15,3 +15,17 @@ ee site create domain --php7 --wpsubdir --wpfc --user=login --pass=password --em
 ee site create domain --mysql
 
 ------------------------------------------
+
+## Install Themes
+
+- Install Avada and Avada Child Themes
+- Activate Avada Child Theme
+
+## Install Plugins
+
+- Install e activate Fusion Core plugin
+- Install e activate Fusion Builder plugin
+- Install e activate Fusion White Label Branding plugin
+- Install e activate Advanced Custom Fields PRO plugin
+
+
