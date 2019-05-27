@@ -23,9 +23,19 @@ ee site create domain --mysql
 
 ## Install Plugins
 
-- Install e activate Fusion Core plugin
-- Install e activate Fusion Builder plugin
-- Install e activate Fusion White Label Branding plugin
-- Install e activate Advanced Custom Fields PRO plugin
+- Install and activate Fusion Core plugin
+- Install and activate Fusion Builder plugin
+- Install and activate Fusion White Label Branding plugin
+- Install and activate Advanced Custom Fields PRO plugin
+- Install and activate Wordpress Importer plugin
+
+## Import Theme Options
+
+- Click in Avada -> Theme Options -> Import/Export -> Import Contents from File
+- Copy configs from paradb_options_backup_27-05-2019.json
+- Click in Save Changes
+
+
+
 
 
